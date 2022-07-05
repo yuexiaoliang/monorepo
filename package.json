@@ -9,6 +9,7 @@
   },
   "main": "index.js",
   "scripts": {
+    "dev": "pnpm --filter @shuguang/admin dev",
     "preinstall": "npx only-allow pnpm"
   },
   "author": "",
